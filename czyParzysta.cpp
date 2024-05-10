@@ -1,4 +1,4 @@
-// TODO: testable function definition modification
+// TODO: testable function definition second modification
 
 // Funkcja sprawdza czy liczba podanag przez uzytkownika to liczba parzysta
 
@@ -20,9 +20,9 @@ int main() {
 
     // Wywołaj funkcję czyParzysta i wyświetl wynik
     if (czyParzysta(liczba)) {
-        cout << "Podana liczba jest parzysta." << endl;
+        cout << "Podana liczba JEST parzysta." << endl;
     } else {
-        cout << "Podana liczba nie jest parzysta." << endl;
+        cout << "Podana liczba NIE jest parzysta." << endl;
     }
 
     return 0;
