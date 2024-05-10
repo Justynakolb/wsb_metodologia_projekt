@@ -1,1 +1,0 @@
-dzialania na nowej galezi
