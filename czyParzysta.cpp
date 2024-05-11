@@ -20,9 +20,9 @@ int main() {
 
     // Wywołaj funkcję czyParzysta i wyświetl wynik
     if (czyParzysta(liczba)) {
-        cout << "True" << endl;
+        cout << "Podana liczba JEST PARZYSTA" << endl;
     } else {
-        cout << "False." << endl;
+        cout << "Podana liczba NIE jest parzysta " << endl;
     }
 
     return 0;
